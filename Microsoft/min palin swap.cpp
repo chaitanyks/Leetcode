@@ -34,7 +34,7 @@ int minSwap(string str) {
                     mr++;
                 }
             } else {
-                ans = ans + ml;
+                ans = ans + ml - l;
                 while (ml > l) {
                     swap(str[ml], str[ml - 1]);
                     ml--;
