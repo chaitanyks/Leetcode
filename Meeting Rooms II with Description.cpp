@@ -12,6 +12,16 @@
 // room2: (5,10),(15,20)
 
 
+/**
+ * Definition of Interval:
+ * classs Interval {
+ *     int start, end;
+ *     Interval(int start, int end) {
+ *         this->start = start;
+ *         this->end = end;
+ *     }
+ * }
+ */
 
 class Solution{
         public:
