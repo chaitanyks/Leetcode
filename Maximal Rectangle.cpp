@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/maximal-rectangle/
+// 85. Maximal Rectangle.cpp
+
 class Solution {
 public:
     int maximalRectangle(vector<vector<char>> &matrix) {
